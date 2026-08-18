@@ -1,0 +1,11 @@
+# Секреты — никогда не коммитить
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Локальные настройки Claude Code
+.claude/settings.local.json

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "1c-search": {
+      "command": "python",
+      "args": ["C:\\1c-ai\\mcp-server\\src\\mcp_server.py"]
+    }
+  }
+}
